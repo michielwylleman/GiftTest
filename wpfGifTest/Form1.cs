@@ -18,7 +18,8 @@ namespace wpfGifTest
         }
         private void button1_Click(object sender, EventArgs e)
         {
-            
+            lstWelkom.Items.Add("Bienvenue!");
+            lstWelkom.Items.Add("Welcome!");
         }
     }
 }
